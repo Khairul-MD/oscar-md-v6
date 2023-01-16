@@ -19,7 +19,7 @@ global.ownername = "OnlyYou" //ur owner name
 global.developer = "OnlyYou" //nama lu
 global.ytname = "gaada yt bng" //ur yt chanel name
 global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
-global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
+global.sgc = "https://chat.whatsapp.com/B5lG1ny5X6dHQXxvEm6Kkz"
 global.location = "Ohio" //ur location
 
 //bot bomdy 
